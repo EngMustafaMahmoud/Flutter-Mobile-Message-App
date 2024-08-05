@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421761022101",
+    "project_id": "messageapp-e01ef",
+    "storage_bucket": "messageapp-e01ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421761022101:android:a91c509932037f3413439c",
+        "android_client_info": {
+          "package_name": "com.kordy.message_app_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtZ-KZ332c2xTDkILBiHIAkq3A45SJl38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
